@@ -1,0 +1,6 @@
+This logo was generated using the following font:
+
+- Font Title: Noto Serif TC
+- Font Author: (c) 2017-2023 Adobe (http://www.adobe.com/).
+- Font Source: https://fonts.gstatic.com/s/notoseriftc/v31/XLYzIZb5bJNDGYxLBibeHZ0BnHwmuanx8cUaGX9aMOpDOWYMr2OM.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
